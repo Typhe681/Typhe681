@@ -1,16 +1,37 @@
-## Hi there 👋
+```js
+const typhe = {
+  username: "Typhe",
+  pronunciation: "TYE-F", //yes this line is needed :sob:
+  pronouns: "he" | "any",
+  email: "typhe681@gmail.com",
+  website: "https://typhe.dev",
+  system: ["Windows 11" /*HEAVILY tweaked*/, "Nobara Linux"],
+  projects: "Too many",
+  sleep: false,
 
-<!--
-**Typhe681/Typhe681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  interests: [
+    "electronics",
+    "minecraft",
+    "music",
+    "other stuff idk"
+  ]
+}
 
-Here are some ideas to get you started:
+if (project) {
+  delay(426810)
+  Math.random() > 0.8
+    ? complete()
+    : loseInterest()
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```cmd
+typhe681@github:~ $ node hello.js
+Hii i'm Typhe, a guy on the internet who does stuff sometimes lol
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
