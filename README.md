@@ -2,7 +2,7 @@
 const typhe = {
   username: "Typhe",
   pronunciation: "TYE-F", //yes this line is needed :sob:
-  pronouns: "he" | "any",
+  pronouns: ["he", "any"],
   email: "typhe681@gmail.com",
   website: "https://typhe.dev",
   system: ["Windows 11" /*HEAVILY tweaked*/, "Nobara Linux"],
